@@ -74,7 +74,7 @@ body {
 }
 
 .turn {
-  color: var(--yellow);
+  /* color: var(--yellow); */
   /* background-color: green; */
 
   grid-column-start: 1;
